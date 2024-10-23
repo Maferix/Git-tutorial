@@ -1,0 +1,15 @@
+body {
+background-color: lightblue;
+}
+
+h1 {
+color: navy;
+margin-left: 20px;
+}
+
+'Soubor bluestyle.css obsahuje následující informace:
+'Pozadí stránky: body { background-color: lightblue; } – nastavuje světle modrou barvu pozadí celé stránky.
+'Nadpisy úrovně 1: h1 { color: navy; margin-left: 20px; } – nastavuje tmavě modrou barvu pro text nadpisu (h1) a posunuje ho o 20 pixelů od levého okraje.
+'Projevy v HTML stránce:
+'Pozadí bude světle modré.
+'Nadpis (<h1>) bude tmavě modrý a posunutý o 20 pixelů doprava.
